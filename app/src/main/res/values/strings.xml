@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kvíz játék</string>
+    <string name="loading_image">loading_image</string>
+    <string name="hint_input">Név</string>
+    <string name="level_text">Nehézségi fok</string>
+    <string name="easy_button">Könnyű</string>
+    <string name="hard_button">Nehéz</string>
+    <string name="famous_button">Híresség</string>
+    <string name="car_button">Autó</string>
+    <string name="capital_button">Főváros</string>
+    <string name="it_button">Informatika</string>
+    <string name="history_button">Történelem</string>
+    <string name="category_text">Kategória</string>
+    <string name="score_text">Elért pontszám</string>
+    <string name="done_button">Tovább</string>
+    <string name="top_users">Top játékosok</string>
+    <string name="new_game">Új játék</string>
+    <string name="loading_text">Egy pillanat...</string>
+</resources>

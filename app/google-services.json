@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1071303625645",
+    "project_id": "kvizapp-dcb50",
+    "storage_bucket": "kvizapp-dcb50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071303625645:android:954bba01a82f6835126f24",
+        "android_client_info": {
+          "package_name": "com.example.myquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071303625645-j34gabujrnov1jh2ut4sr74jad5m6v8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myquiz",
+            "certificate_hash": "1c97d666ea3cf1b99537b9e4ef079defdbe3d0f7"
+          }
+        },
+        {
+          "client_id": "1071303625645-m355masvdkas7pgb66vtk4545dggv389.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE9zpNm983n60q8ujGFJ5YchSQYWG6C7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071303625645-m355masvdkas7pgb66vtk4545dggv389.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
